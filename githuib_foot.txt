@@ -1,1 +1,0 @@
-Python script based on the api "Football data"
